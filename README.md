@@ -18,5 +18,5 @@
 **Password**: jones72joanna
 
 **BackEnd:**
-To run the backend queries use the link and include the filename.
-http://auckland.bauer.uh.edu/students/gl1517/cosc3380/ + (filename i.e.http://auckland.bauer.uh.edu/students/gl1517/cosc3380/BuildDatabase.asp)
+To run the backend queries use the clinic link and include the filename.
+(i.e.http://auckland.bauer.uh.edu/students/gl1517/cosc3380/BuildDatabase.asp)
