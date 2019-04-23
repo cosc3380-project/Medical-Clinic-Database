@@ -13,7 +13,7 @@
 <p>
 <p>Begin execution<p>
 <%
-'on error resume next
+on error resume next
 set cn=Server.CreateObject("ADODB.Connection")
 cn.open "gl1517","gl1517","MSX44gdnE"
 
@@ -47,6 +47,12 @@ response.write "<p>SQLString --->"+cstr(SQLString1)+"<---"
 cn.execute SQLString1,numa
 response.write "<p>DROPPED appointment OK numa="+cstr(numa)
 
+SQLString1="DROP TABLE email"
+response.write "<p>Ready to DROP email"
+response.write "<p>SQLString --->"+cstr(SQLString1)+"<---"
+cn.execute SQLString1,numa
+response.write "<p>DROPPED email OK numa="+cstr(numa)
+
 SQLString1="DROP TABLE office_admin"
 response.write "<p>Ready to DROP office_admin"
 response.write "<p>SQLString --->"+cstr(SQLString1)+"<---"
@@ -64,6 +70,12 @@ response.write "<p>Ready to DROP office"
 response.write "<p>SQLString --->"+cstr(SQLString1)+"<---"
 cn.execute SQLString1,numa
 response.write "<p>DROPPED office OK numa="+cstr(numa)
+
+SQLString1="DROP TABLE blood_test"
+response.write "<p>Ready to DROP blood_test"
+response.write "<p>SQLString --->"+cstr(SQLString1)+"<---"
+cn.execute SQLString1,numa
+response.write "<p>DROPPED blood_test OK numa="+cstr(numa)
 
 SQLString1="DROP TABLE doctor"
 response.write "<p>Ready to DROP doctor"
