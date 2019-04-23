@@ -20,7 +20,7 @@
 **BackEnd:**
 To run the backend queries use the clinic link and include the filename here are some examples:
 
-To drop all tables:http://auckland.bauer.uh.edu/students/gl1517/cosc3380/DropEverything.asp
+To drop all tables: http://auckland.bauer.uh.edu/students/gl1517/cosc3380/DropEverything.asp
 
 To Rebuild the database: http://auckland.bauer.uh.edu/students/gl1517/cosc3380/BuildDatabase.asp
 
