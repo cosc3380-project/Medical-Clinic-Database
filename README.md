@@ -18,8 +18,14 @@
 **Password**: jones72joanna
 
 **BackEnd:**
-To run the backend queries use the clinic link and include the filename.
-(i.e.http://auckland.bauer.uh.edu/students/gl1517/cosc3380/BuildDatabase.asp)
+To run the backend queries use the clinic link and include the filename here are some examples:
+
+To drop all tables:http://auckland.bauer.uh.edu/students/gl1517/cosc3380/DropEverything.asp
+
+To Rebuild the database: http://auckland.bauer.uh.edu/students/gl1517/cosc3380/BuildDatabase.asp
+
+To load the tables with "canned" data: http://auckland.bauer.uh.edu/students/gl1517/cosc3380/LoadTables.asp
+
 
 **To Download All Site Files**
 https://drive.google.com/open?id=16ccHyiXb1mi4P3Gma210DycxeDDplmC8
