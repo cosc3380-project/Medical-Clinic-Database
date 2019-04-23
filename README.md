@@ -5,15 +5,15 @@
 
 **Clinic Website**: http://auckland.bauer.uh.edu/students/gl1517/cosc3380/
 
-- Patient Login
+- Patient Login -
 **Username**: acraft
 **Password**: craft101
 
-- Doctor Login
+- Doctor Login - 
 **Username**: vdurner
 **Password**: durner101
 
-- Admin Login
+- Admin Login - 
 **Username**: joajones
 **Password**: jones72joanna
 
